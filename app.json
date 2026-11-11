@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "맛집찾기 - 오늘은 뭐 먹지?",
+    "slug": "matjip-finder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": { "predictiveBackGestureEnabled": false },
+    "web": { "bundler": "metro" }
+  }
+}
